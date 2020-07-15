@@ -8,3 +8,4 @@ git tracks chages of files.
 xbox one x
 checkout a new branch call dev
 create a nice branch
+Creating a new branch is quick AND simple.
