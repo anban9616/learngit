@@ -7,5 +7,6 @@ version4
 git tracks chages of files. 
 xbox one x
 checkout a new branch call dev
-create a nice branch
+create a nice bug to fix
 Creating a new branch is quick AND simple.
+
