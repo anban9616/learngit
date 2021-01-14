@@ -23,6 +23,8 @@ jobs:
       with:
         repo_token: ${{ secrets.GITHUB_TOKEN }}
         file: /tmp/a.txt
-        tag: ${{ github.ref }}
+        asset_name: mything
+        tag: version1
+        release_name: aa 
         overwrite: true
         file_glob: true
